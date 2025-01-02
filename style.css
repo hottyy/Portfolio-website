@@ -63,9 +63,12 @@ a:hover{
 
 /* Hamburger Menu*/
 
-#hamburger-nav{
+#hamburger-nav {
     display: none;
-}
+    position: relative;
+    top: 0;
+    right: 0;
+  }
 
 .hamburger-menu{
     position: relative;
